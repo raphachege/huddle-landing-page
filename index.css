@@ -1,0 +1,24 @@
+.container {
+    justify-content: space-between;
+    background-color: rgb(255, 255, 255);
+}
+
+.button {
+    height: 30px;
+    background-color: #fff;
+    border-color: pink;
+    border-radius: 30px;
+}
+.button2 {
+    height: 30px;
+    background-color: pink;
+    border-color: pink;
+    border-radius: 30px;
+}
+.third,.fourth, .fifth, .last {
+    justify-content: space-between;
+    display: flex;
+}
+.foot {
+    background-image: url(images\bg-footer-top-mobile.svg);
+}
